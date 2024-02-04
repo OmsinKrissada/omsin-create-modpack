@@ -1,12 +1,12 @@
 name = "Modpack for Omsin's Create Server"
 author = "Omsin"
-version = "1.0.1"
+version = "1.0.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "fee2d476f6940e9c57c0048adaa333b24791a7f27582255cc35c497d6e2f1da1"
+hash = "ade2cf17e7919a5e3b44f964896a535b1c8364acaabd7fc71437cfaaee6040f9"
 
 [versions]
 forge = "47.2.0"
