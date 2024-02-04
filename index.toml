@@ -72,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "d3a861b09da982bbecbd4de30df89f802acefe1f621fa4e806c054e9a5426141"
+hash = "a49c5c15586667460668bc0207a34ef56330a1cc8b7b5e3c3c7ec7876ee56138"
 metafile = true
 
 [[files]]
@@ -138,11 +138,6 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "d71fd32a56325b8fe378cfafe78f81d985436b2fd44638f5bab1f1386680b096"
-metafile = true
-
-[[files]]
-file = "mods/oculus.pw.toml"
-hash = "31ae55a04e6bf3dd073be426cfd687505ebf9ab691d806d580e9a3305fc8a9ce"
 metafile = true
 
 [[files]]
