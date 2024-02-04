@@ -1,13 +1,13 @@
-name = "Mob Lassos [Forge & Fabric]"
-filename = "MobLassos-v8.0.0-1.20.1-Forge.jar"
+name = "Mob Lassos"
+filename = "MobLassos-v8.0.1-1.20.1-Forge.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/ftOBbnu8/versions/9ocXWaBc/MobLassos-v8.0.1-1.20.1-Forge.jar"
 hash-format = "sha1"
-hash = "cfead79f9e9bc0cad2f5c6a40f7945d076d7e64a"
-mode = "metadata:curseforge"
+hash = "0586f2cdfe31d98824e4acf1556f9e070b5453da"
 
 [update]
-[update.curseforge]
-file-id = 4613348
-project-id = 852670
+[update.modrinth]
+mod-id = "ftOBbnu8"
+version = "9ocXWaBc"

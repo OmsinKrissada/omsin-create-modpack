@@ -1,13 +1,13 @@
 name = "Alex's Mobs"
-filename = "alexsmobs-1.22.6.jar"
+filename = "alexsmobs-1.22.7.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/2cMuAZAp/versions/ftwjMYH7/alexsmobs-1.22.7.jar"
 hash-format = "sha1"
-hash = "e0237a42b8623afb3ccbf64a0807dbd5b6192124"
-mode = "metadata:curseforge"
+hash = "5b27e202521a2bad17582a8885227833f063507f"
 
 [update]
-[update.curseforge]
-file-id = 4745999
-project-id = 426558
+[update.modrinth]
+mod-id = "2cMuAZAp"
+version = "ftwjMYH7"
